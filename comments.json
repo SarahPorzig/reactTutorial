@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1388534400000,
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1472537612683,
+        "author": "Sarah",
+        "text": "Hello"
+    },
+    {
+        "id": 1472546353995,
+        "author": "Mary",
+        "text": "Hi There"
+    },
+    {
+        "id": 1472546371667,
+        "author": "Jane",
+        "text": "Guten Tag!"
+    },
+    {
+        "id": 1472546554373,
+        "author": "Nick",
+        "text": "Hello!!"
+    },
+    {
+        "id": 1472546601180,
+        "author": "Sarah Jane",
+        "text": "I made this comment box!"
+    },
+    {
+        "id": 1472546686819,
+        "author": "Madeline",
+        "text": "React is *great*"
+    }
+]
